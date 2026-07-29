@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://graphicsandroid65.github.io/sitemap.xml
