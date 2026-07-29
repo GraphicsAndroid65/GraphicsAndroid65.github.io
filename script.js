@@ -75,7 +75,7 @@ function animateParticles() {
 
     ctx.beginPath();
     ctx.arc(p.x, p.y, p.radius, 0, Math.PI * 2);
-    ctx.fillStyle = ;
+    ctx.fillStyle = "rgba(0, 242, 254, " + p.alpha + ")";
     ctx.fill();
   });
 
